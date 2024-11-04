@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5ba038448065b0014d6e3feb62f93d34c9558afb9992993eb1e58f78d7e194b0
-size 908
+# Renewable Energy Production Forecasting
+This project is an open source artificial intelligence application developed to estimate the amount of renewable energy generation in any country using hourly renewable energy generation data for the period 2015-2020 in Europe. The data is published by Open Power System Data and sourced from TSOs and electricity exchanges provided through ENTSO-E Transparency. Our goal is to develop energy forecasting models to predict and better prepare for potential crises in energy production. The project aims to contribute to energy sector professionals, researchers and data scientists to conduct forward-looking analysis for energy security and crisis management. The project results will be shared as open source on GitHub and open to community contributions.
+
+Data link : https://data.open-power-system-data.org/time_series/2020-10-06/time_series_60min_singleindex.csv
